@@ -8,7 +8,6 @@ This repository contains the two Jupyter notebooks
 Please complete the [setup instructions](http://ganocracy.csail.mit.edu/tutorial/setup.html) before running the notebooks.
 
 ### 1. [Training a GAN](gan_training)
-by: [Alex Andonian](https://www.alexandonian.com/), MIT
 
 How do you actually build and train a Generative Adversarial Network? What are best practices, tips, and tricks to help simplify the process? 
 
@@ -18,7 +17,6 @@ This notebook offers a step-by-step walk-through in PyTorch of Deep Convolutiona
 <sup>Image credit: Alex Andonian</sup>
 
 ### 2. [Exploring a Generator with GANdissect](gandissect)
-by: (https://people.csail.mit.edu/davidbau/home/), MIT
 
 When GANs generate images, are they simply reproducing memorized pixel patterns, or are they composing images from learned objects? How do different architectures affect what the GAN learns? Which neurons are responsible for undesirable artifacts in generated images?
 
